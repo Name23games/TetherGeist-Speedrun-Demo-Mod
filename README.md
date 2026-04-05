@@ -22,4 +22,5 @@ apply the patch and CONGRATULATION!! you can speedrun to your hearts content
 * Reset is the room you will begin in upon using run reset or when starting a new run
 * End is the room you where timer will end
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f5ad9d9c-54c2-4649-b2d9-64fe1ab29fff" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76e9263a-e281-4d6d-a0e2-224abe2219c8" />
+
