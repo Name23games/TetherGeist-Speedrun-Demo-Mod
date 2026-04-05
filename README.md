@@ -16,6 +16,10 @@ Next your Xdelta patch find where you downloaded your TG-SpeedrunMod.xdelta
 
 apply the patch and CONGRATULATION!! you can speedrun to your hearts content
 
+# Features
+* Quick Save/Load
+* Noclip
+* Splits
 
 # Splits Editor Usage
 * Auto Start is the room the timer will start timing
